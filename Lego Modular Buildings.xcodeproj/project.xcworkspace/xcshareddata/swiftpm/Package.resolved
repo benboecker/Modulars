@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "ph-networking",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/palasthotel/ph-networking.git",
+      "state" : {
+        "revision" : "d47f3d6169ec5d3271a47db245882831e3e9d4a7",
+        "version" : "1.1.2"
+      }
+    },
+    {
+      "identity" : "sfsymbol",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/benboecker/SFSymbol.git",
+      "state" : {
+        "revision" : "b5cfa067b79329905d4e4873771606b6d283b350",
+        "version" : "2.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}
